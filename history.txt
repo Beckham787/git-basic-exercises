@@ -1,0 +1,429 @@
+    1  git status
+    2  cd
+    3  pwd
+    4  cd main
+    5  git satus
+    6  git status
+    7  git config --global -e
+    8  git.posh
+    9   posh-git -Scope CurrentUser -Force
+   10  posh.git
+   11  Import-Module posh-git
+   12  clear
+   13  cd
+   14  Import-Module posh-git
+   15  cd main
+   16  git status
+   17  git add task2.js
+   18  git pull https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+   19  git status
+   20  git commit -m "My task 2 code"
+   21  git status
+   22  git remote add origin https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+   23  git remote -v
+   24  git push -u origin master
+   25  git status
+   26  git checkout -b task/2
+   27  git checkout main
+   28  git pull
+   29  cd
+   30  git rm task/2
+   31  git rm -r task/2
+   32  cd task 2
+   33  cd task2.js
+   34  git status
+   35  cd main
+   36  git status
+   37  git branch -d task/2
+   38  cd main
+   39  cd
+   40  git branch -d task/2
+   41  cd main
+   42  git branch -d .
+   43  git branch -d task/2
+   44  git reset task/2
+   45  git checkout task/2
+   46  git checkout main
+   47  git branch -d task/2
+   48  git config --global color.ui auto
+   49  git status
+   50  git add task3.js
+   51  git status
+   52  clear
+   53  git status
+   54  git add task.js
+   55  git add task3.js
+   56  git status
+   57  git -v
+   58  git commit -m ""
+   59  git status
+   60  git commit -m "My task 3 code"
+   61  git status
+   62  git remote add origin https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+   63  git remote -v
+   64  git push -u origin main
+   65  git status
+   66  posh.git install
+   67  git install posh.git
+   68  git --help
+   69  clear
+   70  cd
+   71  cd main
+   72  git status
+   73  git checkout -b task/4
+   74  git status
+   75  clear
+   76  git status
+   77  git pull https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+   78  git add task4.js
+   79  git status
+   80  git commit -m "My square pattern code"
+   81  git status
+   82  git push -u origin task/4
+   83  git status
+   84  git pull https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+   85  git checkout -b task/5
+   86  git pull https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+   87  git add task5.js
+   88  git status
+   89  git commit -m "My triangle pattern code"
+   90  git status
+   91  git push -u origin task/5
+   92  git status
+   93  git checkout main
+   94  cd main
+   95  cd
+   96  git branch -d task/4
+   97  cd main
+   98  pwd
+   99  git status
+  100  cd
+  101  pwd
+  102  git status
+  103  cd main
+  104  git status
+  105  git status
+  106  git add task6.js
+  107  git pull https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+  108  git status
+  109  git commit -m "My task 6 code"
+  110  git status
+  111  git checkout -b task/6
+  112  git remote add origin https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+  113  git remote -v
+  114  git push origin task/6
+  115  git remove -r task/6
+  116  git status
+  117  git remote -v
+  118  git push origin task/6
+  119  git pull https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+  120  git push origin task/6
+  121  git rest-hard
+  122  git reset –hard
+  123  cd
+  124  git reset -hard
+  125  git clean -fxd
+  126  cd main
+  127  clear
+  128  git checkout main
+  129  git remove -r task/6
+  130  git branch -d task/6
+  131  git branch -D task/6
+  132  clear
+  133  git satus
+  134  git status
+  135  ls
+  136  ls
+  137  git add .
+  138  git status
+  139  git add task1.js
+  140  git status
+  141  git checkout -b task/1
+  142  git add task1.js
+  143  git pull https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+  144  gitgit status
+  145  git status
+  146  git remote add origin https://github.com/Umuzi-org/Beckham-Mhlongo-219-level-1-programming-katas-javascript.git
+  147  git push origin task/1
+  148  clear
+  149  cd
+  150  mkdir git-basic-exercises
+  151  cd git-basic-exercises
+  152  ls -a
+  153  git init
+  154  ls -a
+  155  git status
+  156  touch README.md
+  157  ls -a
+  158  git status
+  159  git log
+  160  git add README.md
+  161  git status
+  162  git diff
+  163  git status
+  164  git diff README.md
+  165  git status
+  166  git commit -m "initial commit"
+  167  git log
+  168  q
+  169  nano README.md
+  170  cat README.md
+  171  git status
+  172  git commit -m "second commit"
+  173  git commit -m "third commit"
+  174  git log
+  175  git commit -a "second commit"
+  176  git commit -a
+  177  git log
+  178  git commit -a
+  179  git status
+  180  git diff README.md
+  181  git commit -a
+  182  git commit -m "third commit"
+  183  git log
+  184  git reset README.md
+  185  git status
+  186  git log
+  187  git reset README.md-to-unstage.txt
+  188  git status
+  189  nano README.md
+  190  git status
+  191  git commit -a
+  192  git log
+  193  git checkout 
+  194  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/main (task/1)
+  195  $ cd
+  196  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~
+  197  $ mkdir git-basic-exercises
+  198  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~
+  199  $ cd git-basic-exercises
+  200  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises
+  201  $ ls -a
+  202  ./  ../
+  203  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises
+  204  $ git init
+  205  Initialized empty Git repository in C:/Users/Beckham Mhlongo/git-basic-exercises/.git/
+  206  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  207  $ ls -a
+  208  ./  ../  .git/
+  209  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  210  $ git status
+  211  On branch master
+  212  No commits yet
+  213  nothing to commit (create/copy files and use "git add" to track)
+  214  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  215  $ touch README.md
+  216  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  217  $ ls -a
+  218  ./  ../  .git/  README.md
+  219  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  220  $ git status
+  221  On branch master
+  222  No commits yet
+  223  Untracked files:
+  224    (use "git add <file>..." to include in what will be committed)
+  225          README.md
+  226  nothing added to commit but untracked files present (use "git add" to track)
+  227  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  228  $ git log
+  229  fatal: your current branch 'master' does not have any commits yet
+  230  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  231  $ git add README.md
+  232  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  233  $ git status
+  234  On branch master
+  235  No commits yet
+  236  Changes to be committed:
+  237    (use "git rm --cached <file>..." to unstage)
+  238          new file:   README.md
+  239  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  240  $ git diff
+  241  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  242  $ git status
+  243  On branch master
+  244  No commits yet
+  245  Changes to be committed:
+  246    (use "git rm --cached <file>..." to unstage)
+  247          new file:   README.md
+  248  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  249  $ git diff README.md
+  250  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  251  $ git status
+  252  On branch master
+  253  No commits yet
+  254  Changes to be committed:
+  255    (use "git rm --cached <file>..." to unstage)
+  256          new file:   README.md
+  257  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  258  $ git commit -m "initial commit"
+  259  [master (root-commit) fc82be3] initial commit
+  260   1 file changed, 0 insertions(+), 0 deletions(-)
+  261   create mode 100644 README.md
+  262  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  263  $ git log
+  264  commit fc82be3f4590fb010011fee6d22c017f0f32d0c1 (HEAD -> master)
+  265  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  266  Date:   Wed Aug 2 16:27:23 2023 +0200
+  267      initial commit
+  268  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  269  $ q
+  270  bash: q: command not found
+  271  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  272  $ nano README.md
+  273  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  274  $ cat README.md
+  275  My first git exersice
+  276  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  277  $ git status
+  278  On branch master
+  279  Changes not staged for commit:
+  280    (use "git add <file>..." to update what will be committed)
+  281    (use "git restore <file>..." to discard changes in working directory)
+  282          modified:   README.md
+  283  no changes added to commit (use "git add" and/or "git commit -a")
+  284  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  285  $ git commit -m "second commit"
+  286  On branch master
+  287  Changes not staged for commit:
+  288    (use "git add <file>..." to update what will be committed)
+  289    (use "git restore <file>..." to discard changes in working directory)
+  290          modified:   README.md
+  291  no changes added to commit (use "git add" and/or "git commit -a")
+  292  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  293  $ git commit -m "third commit"
+  294  On branch master
+  295  Changes not staged for commit:
+  296    (use "git add <file>..." to update what will be committed)
+  297    (use "git restore <file>..." to discard changes in working directory)
+  298          modified:   README.md
+  299  no changes added to commit (use "git add" and/or "git commit -a")
+  300  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  301  $ git log
+  302  commit fc82be3f4590fb010011fee6d22c017f0f32d0c1 (HEAD -> master)
+  303  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  304  Date:   Wed Aug 2 16:27:23 2023 +0200
+  305      initial commit
+  306  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  307  $ git commit -a "second commit"
+  308  fatal: paths 'second commit ...' with -a does not make sense
+  309  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  310  $ git commit -a
+  311  warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+  312  [master 7cc6b49] "second commit"
+  313   1 file changed, 1 insertion(+)
+  314  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  315  $ git log
+  316  commit 7cc6b495e5f8bffd873bd80efd0757b706da34fa (HEAD -> master)
+  317  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  318  Date:   Wed Aug 2 16:33:29 2023 +0200
+  319      "second commit"
+  320  commit fc82be3f4590fb010011fee6d22c017f0f32d0c1
+  321  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  322  Date:   Wed Aug 2 16:27:23 2023 +0200
+  323      initial commit
+  324  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  325  $ git commit -a
+  326  On branch master
+  327  nothing to commit, working tree clean
+  328  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  329  $ git status
+  330  On branch master
+  331  nothing to commit, working tree clean
+  332  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  333  $ git diff README.md
+  334  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  335  $ git commit -a
+  336  On branch master
+  337  nothing to commit, working tree clean
+  338  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  339  $ git commit -m "third commit"
+  340  On branch master
+  341  nothing to commit, working tree clean
+  342  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  343  $ git log
+  344  commit 7cc6b495e5f8bffd873bd80efd0757b706da34fa (HEAD -> master)
+  345  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  346  Date:   Wed Aug 2 16:33:29 2023 +0200
+  347      "second commit"
+  348  commit fc82be3f4590fb010011fee6d22c017f0f32d0c1
+  349  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  350  Date:   Wed Aug 2 16:27:23 2023 +0200
+  351      initial commit
+  352  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  353  $ git reset README.md
+  354  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  355  $ git status
+  356  On branch master
+  357  nothing to commit, working tree clean
+  358  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  359  $ git log
+  360  commit 7cc6b495e5f8bffd873bd80efd0757b706da34fa (HEAD -> master)
+  361  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  362  Date:   Wed Aug 2 16:33:29 2023 +0200
+  363      "second commit"
+  364  commit fc82be3f4590fb010011fee6d22c017f0f32d0c1
+  365  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  366  Date:   Wed Aug 2 16:27:23 2023 +0200
+  367      initial commit
+  368  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  369  $ git reset README.md-to-unstage.txt
+  370  fatal: ambiguous argument 'README.md-to-unstage.txt': unknown revision or path not in the working tree.
+  371  Use '--' to separate paths from revisions, like this:
+  372  'git <command> [<revision>...] -- [<file>...]'
+  373  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  374  $ git status
+  375  On branch master
+  376  nothing to commit, working tree clean
+  377  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  378  $ nano README.md
+  379  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  380  $ git status
+  381  On branch master
+  382  Changes not staged for commit:
+  383    (use "git add <file>..." to update what will be committed)
+  384    (use "git restore <file>..." to discard changes in working directory)
+  385          modified:   README.md
+  386  no changes added to commit (use "git add" and/or "git commit -a")
+  387  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  388  $ git commit -a
+  389  warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+  390  [master 8051239] "third commit"
+  391   1 file changed, 1 insertion(+), 1 deletion(-)
+  392  Beckham Mhlongo@LAPTOP-2F65A0SR MINGW64 ~/git-basic-exercises (master)
+  393  $ git log
+  394  commit 8051239481d0fe83fd67bc1946c8574af5fe0c74 (HEAD -> master)
+  395  Author: Beckham Mhlongo <takalanimhlongo11@gmail.com>
+  396  cd git-basic-exercises
+  397  git log
+  398  git checkout  7cc6b495e5f8bffd873bd80efd0757b706da34fa
+  399  cat README.md
+  400  git checkout main
+  401  git checkout main
+  402  cat README.me
+  403  git switch -
+  404  git log
+  405  git checkout  7cc6b495e5f8bffd873bd80efd0757b706da34fa
+  406  cat README.md
+  407  git checkout master
+  408  cat README.md
+  409  git branch
+  410  git branch milkshake-flavours
+  411  git branch
+  412  git checkout milkshake-flavours
+  413  git branch
+  414  nano milkshake-flavours.md
+  415  git status
+  416  git commit -m "added initial flavours"
+  417  git add milkshake-flavours.md
+  418  git commit -m "addd initial flavours"
+  419  git log
+  420  cd master
+  421  pwd
+  422  checkout master
+  423  git checkout master
+  424  git branch history
+  425  checkout history
+  426  git checkout history
+  427  git log
+  428  git branch
+  429  history > history.txt
