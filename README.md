@@ -1,1 +1,1 @@
-My first git exersice
+My first git exercises
